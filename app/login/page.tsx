@@ -21,7 +21,7 @@ const page = () => {
 
     return (
         <div>
-            <div className="min-h-screen flex items-center justify-center p-4">
+            <div className="min-h-screen flex items-center justify-center  p-4">
                 <form
                     // onSubmit={handleLoginSubmit}
                     className="w-full max-w-md bg-gray-800 p-6 rounded-2xl shadow-xl transform transition-all duration-300 hover:scale-[1.02]"
